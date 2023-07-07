@@ -8,8 +8,8 @@
 #define pin D8
 
 //Daten zum verbinden mit dem WiFi
-const char* ssid = "SSID";
-const char* password = "PW";
+const char* ssid = "";
+const char* password = "";
 
 //WiFiClient um zwischen den D1-Mini's Daten zu schicken
 WiFiClient client;
